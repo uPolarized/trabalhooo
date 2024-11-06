@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/naoseii/static/css/main.e6c13ad2.css",
+    "main.js": "/naoseii/static/js/main.ece3971a.js",
+    "static/js/453.e460f92e.chunk.js": "/naoseii/static/js/453.e460f92e.chunk.js",
+    "index.html": "/naoseii/index.html",
+    "main.e6c13ad2.css.map": "/naoseii/static/css/main.e6c13ad2.css.map",
+    "main.ece3971a.js.map": "/naoseii/static/js/main.ece3971a.js.map",
+    "453.e460f92e.chunk.js.map": "/naoseii/static/js/453.e460f92e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ece3971a.js"
+  ]
+}
